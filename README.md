@@ -37,14 +37,15 @@ Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian A
  
 5. Membuat Tampilan
    
-   Untuk membuat view tampilan web agar lebih menarik. Buat file baru dengan nama header.php dan footer.php pada direktori view (app/view/tamplate/about.php) kemudian isi kodenya seperti berikut:
+   Untuk membuat view tampilan web agar lebih menarik. Buat file baru dengan nama header.php dan footer.php pada direktori view (app/view/tamplate) kemudian isi kodenya seperti berikut:
 
-![gambar]()
+![gambar](ss/header.php)
+![gambar](ss/footer.php)
    
    Kemudian ubah file app/view/about.php seperti berikut :
 
-![gambar]()
+![gambar](ss/about.php)
 
 Setelah itu refresh tampilan pada alamat http://localhost:8080/about :
 
-![gambar]()
+![gambar](ss/hasil.png)
