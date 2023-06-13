@@ -39,12 +39,12 @@ Untuk mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian A
    
    Untuk membuat view tampilan web agar lebih menarik. Buat file baru dengan nama header.php dan footer.php pada direktori view (app/view/tamplate) kemudian isi kodenya seperti berikut:
 
-![gambar](ss/header.php)
-![gambar](ss/footer.php)
+![gambar](ss/header.png)
+![gambar](ss/footer.png)
    
    Kemudian ubah file app/view/about.php seperti berikut :
 
-![gambar](ss/about.php)
+![gambar](ss/about.png)
 
 Setelah itu refresh tampilan pada alamat http://localhost:8080/about :
 
